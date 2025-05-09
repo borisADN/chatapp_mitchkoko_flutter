@@ -1,0 +1,2 @@
+C:/Users/Lenovo-Ideapad/Desktop/FLUTTER/A GITER/chatapp_mitchkoko_flutter/android/app/.cxx/Debug/1z661d85/x86/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo-Ideapad/Desktop/FLUTTER/A GITER/chatapp_mitchkoko_flutter/android/app/.cxx/Debug/1z661d85/x86/CMakeFiles/rebuild_cache.dir
